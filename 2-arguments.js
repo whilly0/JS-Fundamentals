@@ -8,6 +8,3 @@ if (args.length === 0) {
 <<<<<<< HEAD
     console.log("Arguments found")
 }
-=======
-    console.log("Arguments found") 
->>>>>>> 6c934dbb2813b057a00fc9c9bc63b27245eeca54
